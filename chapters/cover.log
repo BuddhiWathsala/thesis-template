@@ -1,0 +1,191 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2018.9.15)  24 SEP 2018 18:33
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**cover.tex
+(./cover.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 16 language(s) loaded.
+
+! LaTeX Error: Environment titlepage undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \begin{titlepage}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 	\begin{center}
+                   
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 2--2
+[] 
+ []
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <27> not available
+(Font)              size <24.88> substituted on input line 4.
+
+
+Overfull \hbox (80.44243pt too wide) in paragraph at lines 4--6
+ \OT1/cmr/bx/n/24.88 Online 
+ []
+
+
+Overfull \hbox (79.5066pt too wide) in paragraph at lines 4--6
+ \OT1/cmr/bx/n/24.88 Learn- 
+ []
+
+
+Overfull \hbox (37.31999pt too wide) in paragraph at lines 4--6
+ \OT1/cmr/bx/n/24.88 ing 
+ []
+
+
+Overfull \hbox (33.97963pt too wide) in paragraph at lines 4--6
+ \OT1/cmr/bx/n/24.88 for 
+ []
+
+
+Overfull \hbox (61.42249pt too wide) in paragraph at lines 4--6
+ \OT1/cmr/bx/n/24.88 Solv- 
+ []
+
+
+Overfull \hbox (37.31999pt too wide) in paragraph at lines 4--6
+ \OT1/cmr/bx/n/24.88 ing 
+ []
+
+
+Overfull \hbox (59.55075pt too wide) in paragraph at lines 4--6
+ \OT1/cmr/bx/n/24.88 Data 
+ []
+
+
+Overfull \hbox (72.84023pt too wide) in paragraph at lines 4--6
+ \OT1/cmr/bx/n/24.88 Avail- 
+ []
+
+
+Overfull \hbox (54.03624pt too wide) in paragraph at lines 4--6
+ \OT1/cmr/bx/n/24.88 abil- 
+ []
+
+
+Overfull \hbox (32.65497pt too wide) in paragraph at lines 4--6
+ \OT1/cmr/bx/n/24.88 ity 
+ []
+
+
+Overfull \hbox (69.4279pt too wide) in paragraph at lines 4--6
+ \OT1/cmr/bx/n/24.88 Prob- 
+ []
+
+
+Overfull \hbox (43.87115pt too wide) in paragraph at lines 4--6
+ \OT1/cmr/bx/n/24.88 lem 
+ []
+
+
+Overfull \hbox (23.325pt too wide) in paragraph at lines 4--6
+ \OT1/cmr/bx/n/24.88 in 
+ []
+
+
+Overfull \hbox (55.70647pt too wide) in paragraph at lines 4--6
+ \OT1/cmr/bx/n/24.88 Nat- 
+ []
+
+
+Overfull \hbox (24.88pt too wide) in paragraph at lines 4--6
+ \OT1/cmr/bx/n/24.88 u- 
+ []
+
+
+Overfull \hbox (32.81339pt too wide) in paragraph at lines 4--6
+ \OT1/cmr/bx/n/24.88 ral 
+ []
+
+
+Overfull \hbox (55.3033pt too wide) in paragraph at lines 4--6
+ \OT1/cmr/bx/n/24.88 Lan- 
+ []
+
+
+Overfull \hbox (69.9174pt too wide) in paragraph at lines 4--6
+ \OT1/cmr/bx/n/24.88 guage 
+ []
+
+
+Overfull \hbox (53.8779pt too wide) in paragraph at lines 4--6
+ \OT1/cmr/bx/n/24.88 Pro- 
+ []
+
+
+Overfull \hbox (56.62222pt too wide) in paragraph at lines 4--6
+ \OT1/cmr/bx/n/24.88 cess- 
+ []
+
+
+Overfull \hbox (37.31999pt too wide) in paragraph at lines 4--6
+ \OT1/cmr/bx/n/24.88 ing 
+ []
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <20> not available
+(Font)              size <20.74> substituted on input line 7.
+
+! Undefined control sequence.
+<argument> {\fontsize {20}{60}\selectfont {\NAME 
+                                                 }}
+l.7 ...tbf{{\fontsize{20}{60}\selectfont {\NAME}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: \begin{document} ended by \end{titlepage}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 \end{titlepage}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> cover.tex
+             
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 16 strings out of 494426
+ 248 string characters out of 6170400
+ 46901 words of memory out of 5000000
+ 3554 multiletter control sequences out of 15000+600000
+ 4562 words of font info for 17 fonts, out of 8000000 for 9000
+ 286 hyphenation exceptions out of 8191
+ 16i,1n,10p,162b,176s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

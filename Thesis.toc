@@ -1,0 +1,31 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {english}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Declaration}{i}{chapter*.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Abstract}{ii}{chapter*.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Preface}{iii}{chapter*.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Acknowledgement}{iv}{chapter*.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Contents}{v}{section*.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{List of Figures}{vi}{section*.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{List of Tables}{vii}{section*.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Acronyms}{1}{section*.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Background to the Research}{1}{section.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Conclusion}{1}{section.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Chapter 2}{2}{chapter*.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Appendices}{4}{section*.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}Some Appendix}{5}{Appendix.1.A}
